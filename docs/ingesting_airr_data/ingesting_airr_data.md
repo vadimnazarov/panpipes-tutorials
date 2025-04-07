@@ -1,5 +1,3 @@
-# Tutorial
-
 Analyzing scRNA-seq and scTCR-seq Data with Panpipes
 ===================
 
